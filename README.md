@@ -9,7 +9,10 @@ Les obstacles se trouvent initialement sur un des chemins vers la sortie et les 
 aléatoirement sur le labyrinthe. Chaque fois qu’un bonus est consommé, un autre apparait dans une
 autre zone choisie aléatoirement.
 L’application doit prendre en considération ce qui suit :
+
 • Lors de la demande de d’aide, permettre le choix de la méthode de résolution : recherche en
 profondeur d’abord (a=1/3), recherche en largeur d’abord (a=2/3) ou A* (a=1) ;
+
 • Choisir un des modèles de labyrinthes, chargés à partir des fichiers ;
+
 • Fixer le nombre des obstacles et le nombre des bonus ;
